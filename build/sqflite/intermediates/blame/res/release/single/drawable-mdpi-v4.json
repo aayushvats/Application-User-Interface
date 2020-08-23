@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/aayush/AndroidStudioProjects/AppUI/build/sqflite/intermediates/res/merged/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/aayush/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a15bc2cfed34e051cc0b6b6d3a2dd81e/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/aayush/AndroidStudioProjects/AppUI/build/sqflite/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/aayush/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a15bc2cfed34e051cc0b6b6d3a2dd81e/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/aayush/AndroidStudioProjects/AppUI/build/sqflite/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/aayush/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a15bc2cfed34e051cc0b6b6d3a2dd81e/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/aayush/AndroidStudioProjects/AppUI/build/sqflite/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/aayush/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a15bc2cfed34e051cc0b6b6d3a2dd81e/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/aayush/AndroidStudioProjects/AppUI/build/sqflite/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/aayush/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a15bc2cfed34e051cc0b6b6d3a2dd81e/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    }
+]

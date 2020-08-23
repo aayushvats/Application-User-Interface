@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/aayush/AndroidStudioProjects/AppUI/build/sqflite/intermediates/res/merged/release/values-ms/values-ms.xml",
+            "map": [
+                {
+                    "source": "/home/aayush/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a15bc2cfed34e051cc0b6b6d3a2dd81e/res/values-ms/values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/aayush/AndroidStudioProjects/AppUI/build/sqflite/intermediates/incremental/mergeReleaseResources/merged.dir/values-ms/values-ms.xml",
+            "map": [
+                {
+                    "source": "/home/aayush/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a15bc2cfed34e051cc0b6b6d3a2dd81e/res/values-ms/values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
